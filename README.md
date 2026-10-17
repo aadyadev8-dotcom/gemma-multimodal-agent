@@ -1,7 +1,7 @@
 
 # GemmaAssist 🚀
 ### Multimodal Agent Skill Standard for C++ & Diagram Intelligence (Powered by Gemma 4)
-
+🌐 **Live Demo**: [https://gemma-multimodal-agent.vercel.app](https://gemma-multimodal-agent.vercel.app)
 GemmaAssist is a high-performance developer tool designed for hackathons, leveraging Google's flagship **Gemma 4** models to perform dual-mode C++ code optimization and visual flowchart-to-code reconstruction.
 
 ---
